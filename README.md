@@ -63,7 +63,7 @@ The model predicts heart disease risk based on these clinical indicators.
 
 You can try the deployed model with a simple web form here:
 
-👉 https://4864cc2f5ece1b18bd.gradio.live
+👉 https://e215aed978533476d2.gradio.live
 
 Enter values for the clinical features and receive a heart disease prediction.
 
